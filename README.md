@@ -28,6 +28,8 @@ Event Management MVC Application developed on Asp.Net Framework 2.1 using C#, HT
 
 4) Users can register on the website to create their own events. 
 
+![Screenshot (41)](https://user-images.githubusercontent.com/53581128/108479517-d866d200-72bb-11eb-9aac-8a216732cdcd.png)
+
 5) Anonymous users can only view public events
 
 6) Admin user can edit ANY event
