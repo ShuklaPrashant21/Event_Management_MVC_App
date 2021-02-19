@@ -3,8 +3,12 @@
 Event Management MVC Application developed on Asp.Net Framework 2.1 using C#, HTML5, CSS3, JS and data will be stored in local MS SQL Server.
 
 #### High level requirements and specifications are as below:
+
 ### Home page 
 1)	Displays all public events. There will be 2 columns, one for past events and one for future events. 
+
+![Screenshot (37)](https://user-images.githubusercontent.com/53581128/108478727-dfd9ab80-72ba-11eb-9bf7-ce97c6794b7c.png)
+
 
 2)	Clicking on view details shows user the event details.
 
@@ -26,3 +30,4 @@ Event Management MVC Application developed on Asp.Net Framework 2.1 using C#, HT
 7) The list of events will show ALL events for him, whether public/private
 
 ##### Developed by Prashant Shukla
+
