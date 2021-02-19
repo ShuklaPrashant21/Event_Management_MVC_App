@@ -1,0 +1,50 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+.event-group-heading {
+    background: #b4b4b4;
+    padding: 5px 10px;
+    border-radius: 5px
+}
+
+.alert {
+    margin-top: 10px;
+}
+
+.event-box {
+    width: 100%;
+    background: #dcd6d6;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0 5px 0;
+    word-wrap: break-word;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.backpic {
+    background-image: url("C:\Users\prashantshukla\source\repos\MVCDataAccess\MVCApp\images\Book8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
